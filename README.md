@@ -1,3 +1,3 @@
 # Deployment url
 
-https://pensive-montalcini-52968e.netlify.app
+https://dazzling-euler-89936f.netlify.app/
